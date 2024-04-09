@@ -1,0 +1,20 @@
+/* Element Selector */
+h1 {
+    color: brown;
+}
+
+/* # - ID Selector 
+    - use ID for only Unique Fields 
+*/
+#title {
+    color: purple;
+}
+
+/* Class Selector */
+.title-one {
+    color: black;
+}
+
+.title-second {
+    color: chartreuse;
+}

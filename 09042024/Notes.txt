@@ -1,0 +1,16 @@
+Git -> Install -> Done
+Github -> Account -> Done 
+
+New code (Local) --> PUSH --> Remote 
+Remote --> PULL --> Local 
+
+
+Git Commands - 
+
+git [COMMAND] 
+
+GIT tracking  
+--->
+USE ONLY ONE TIME -> 
+
+git init  --> GIT Initialise - init 

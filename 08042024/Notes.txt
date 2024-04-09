@@ -1,0 +1,25 @@
+CSS - Casacading Style sheet
+Web pages - Great Look / Design 
+
+HTML - <TagName></TagName>
+
+CSS - Syntax 
+
+Element -> Design -> Properties -> Styling
+                            Color, Backgroung, size, fonts,border
+Element ->
+<h1></h1>
+h1 {
+    color  (Property) : red (Value);
+    font-size (Property) : 14px (Value);
+}
+
+CSS Structure : 
+1. Inline CSS - CSS -> Inside element itself
+2. Internal CSS -> CSS in same HTML file only
+3. External CSS -> Different CSS file for each HTML File
+
+CSS Selectors : 
+Element
+ID 
+Class 
