@@ -14,3 +14,18 @@ GIT tracking
 USE ONLY ONE TIME -> 
 
 git init  --> GIT Initialise - init 
+
+git branch BRANCH_NAME --> Creates new branch 
+git checkout BRANCH_NAME --> Jump to particular branch 
+git add . / filename  --> To stage, unstage files.
+git commit -m "MESSAGE" --> To Commit staged files
+git push  --> Push code to remote
+REMOTE 
+
+REMOTE 
+New Branch ---> Master Merge
+Steps : 
+1. Create a PR - Pull Request
+2. Approve PR (Done by Seniors)
+3. Resolve Merge conflicts. --- NOT USED AS OF NOW.
+4. Merge PR into master. 

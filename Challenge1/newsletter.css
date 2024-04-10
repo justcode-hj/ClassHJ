@@ -1,0 +1,57 @@
+body {
+    background-color: #e6e9fb;
+}
+
+.outer-box {
+    text-align: center;
+    background-color: #ffffff;
+    width: 50%;
+    margin: auto;
+    margin-top: 20%;
+    padding: 60px;
+}
+
+.main-heading {
+    
+    font-size: 30px;
+    font-weight: 500;
+    font-family: "Merriweather", serif;
+}
+
+.other-content {
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Noto Sans", sans-serif;
+}
+
+#email-text-field{
+    width: 450px;
+    height: 40px;
+    border: none;
+    padding-left: 15px;
+    background-color: #e6e9fb;
+    font-size: 16px;
+    color: #111827;
+    background-color: #fafaff;
+    opacity: 0.6; 
+    outline: none;
+    border-radius: 6px;
+    border: 1px solid #e2e4f1;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.subscribe-button{
+    background-color: #111827;
+    border: none;
+    color: #e5e5e7;
+    border-radius: 6px;
+    height: 40px;
+    width: 150px;
+    font-size: 16px;
+    font-family: "Noto Sans", sans-serif;
+    margin-left: 15px;
+}
+
+.terms-and-conditions{
+    display: flex;
+}
