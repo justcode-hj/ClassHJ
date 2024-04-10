@@ -15,6 +15,12 @@ USE ONLY ONE TIME ->
 
 git init  --> GIT Initialise - init 
 
+
+
+
+
+
+
 git branch BRANCH_NAME --> Creates new branch 
 git checkout BRANCH_NAME --> Jump to particular branch 
 git add . / filename  --> To stage, unstage files.
